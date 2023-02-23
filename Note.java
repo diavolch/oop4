@@ -9,13 +9,14 @@ import java.util.Date;
 @Setter
 public class Note<T> {
     private int id;
+    static int counter = 1;
     private T priority;
     private Date date;
     private String deadline;
     private String name;
 
     public Note(int id, T priority, Date date, String deadline, String name) {
-        this.id = id;
+        this.id = counter++;
         this.priority = priority;
         this.date = date;
         this.deadline = deadline;
