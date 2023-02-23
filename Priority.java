@@ -8,4 +8,8 @@ public class Priority<T>{
 
     public Priority() {
     }
+    @Override
+    public String toString() {
+        return "priority=" + priority;
+    }
 }

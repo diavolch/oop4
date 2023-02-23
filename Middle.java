@@ -7,6 +7,6 @@ public class Middle extends Priority {
         super(priority);
     }
     public Middle() {
-
+        super.priority = "middle";
     };
 }

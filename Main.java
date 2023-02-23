@@ -6,13 +6,18 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Low note = new Low();
+        Low note1 = new Low();
+        Middle note2 = new Middle();
+        High note3 = new High();
         NoteWriter nw = new NoteWriter();
         NoteReader nr = new NoteReader();
-        Note<Low> n1 = new Note<>(1, note, new Date(), "25 февраля", "Di");
-        Note<Low> n2 = new Note<>(1, note, new Date(), "1 марта", "Di");
+        Note<Low> n1 = new Note<>(1, note1, new Date(), "25 февраля", "Di");
+        Note<Middle> n2 = new Note<>(1, note2, new Date(), "1 марта", "Valya");
+        Note<High> n3 = new Note<>(1, note3, new Date(), "4 октября", "Diana");
+
         nw.write(n1);
         nw.write(n2);
+        nw.write(n3);
         nr.read();
 
     }

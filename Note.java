@@ -26,7 +26,7 @@ public class Note<T> {
     public String toString() {
         return "Note{" +
                 "id=" + id +
-                ", priority=" + priority +
+                ", " + priority +
                 ", date=" + date +
                 ", deadline='" + deadline + '\'' +
                 ", name='" + name + '\'' +

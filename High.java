@@ -7,6 +7,6 @@ public class High extends Priority {
         super(priority);
     }
     public High() {
-
+        super.priority = "high";
     };
 }

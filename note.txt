@@ -1,2 +1,19 @@
 Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 16:08:17 MSK 2023, deadline='25 февраля', name='Di'}
 Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 16:08:17 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 17:32:37 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 17:32:37 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 19:21:46 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 19:21:46 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 19:31:06 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=s4.Low@7cc355be, date=Thu Feb 23 19:31:06 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=priority=null, date=Thu Feb 23 19:32:23 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=priority=null, date=Thu Feb 23 19:32:23 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=Prioritynull, date=Thu Feb 23 19:33:44 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=Prioritynull, date=Thu Feb 23 19:33:44 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority= null, date=Thu Feb 23 19:38:04 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority= null, date=Thu Feb 23 19:38:04 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=low, date=Thu Feb 23 19:38:56 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=low, date=Thu Feb 23 19:38:56 MSK 2023, deadline='1 марта', name='Di'}
+Note{id=1, priority=low, date=Thu Feb 23 19:41:51 MSK 2023, deadline='25 февраля', name='Di'}
+Note{id=1, priority=middle, date=Thu Feb 23 19:41:51 MSK 2023, deadline='1 марта', name='Valya'}
+Note{id=1, priority=high, date=Thu Feb 23 19:41:51 MSK 2023, deadline='4 октября', name='Diana'}
